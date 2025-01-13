@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardojaneis&label=Profile%20views&color=0e75b6&style=flat" alt="leonardojaneis" /> </p>
 
-- 🧠 I’m currently learning **Docker, VueJS, Postgres**
+- 🧠 I’m currently learning **AI, Machine Learning, Docker, VueJS, Postgres**
 
-- 💬 Ask me about **Java, PHP, JavaScript, Agile**
+- 💬 Ask me about **Java, PHP, JavaScript, Agile, Python**
 
 - 📫 How to reach me **leonardojaneis@gmail.com**
 
