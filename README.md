@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardojaneis&label=Profile%20views&color=0e75b6&style=flat" alt="leonardojaneis" /> </p>
 
-- 🧠 I’m currently learning **AI, Machine Learning, Docker, VueJS, Postgres**
+- 🧠 I’m currently learning **LLMs, RAG, Spring Boot and Angular**
 
 - 💬 Ask me about **Java, PHP, JavaScript, Agile, Python**
 
